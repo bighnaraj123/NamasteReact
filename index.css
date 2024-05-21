@@ -1,7 +1,10 @@
-body {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* body {
     font-family: Arial, sans-serif;
   }
-  
+  a{color:rgb(0, 0, 65); text-decoration:none;}
   .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -155,4 +158,4 @@ body {
   
   footer nav ul li:last-child {
     margin-right: 0;
-  }
+  } */
